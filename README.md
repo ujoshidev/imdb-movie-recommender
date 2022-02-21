@@ -22,4 +22,5 @@ Created model has been containerized using docker and its been pushed to contain
 
 
 Click <a href="https://imdb-movie-recommender.azurewebsites.net/" target="_blank" rel="noopener noreferrer"><strong>HERE</strong></a> to acess application UI. 
+
 <b>NOTE:</b>: Application may take some minuted to load as it is running on least configuration service plan :grimacing:
